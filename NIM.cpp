@@ -6,8 +6,7 @@
 
 using namespace std;
 
-cout << "My name is Dovydas Stankevicius"; 
-cout << "RU id: dovydas13";
+
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
 
@@ -36,6 +35,8 @@ int main( )
 	int val;
 	do
 	{
+		cout << "My name is Dovydas Stankevicius";
+		cout << "RU id: dovydas13"; 
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
